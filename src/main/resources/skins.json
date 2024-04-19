@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Skin A",
+    "tipo": "Normal",
+    "precio": 10.99,
+    "color": "Rojo"
+  },
+  {
+    "id": 2,
+    "nombre": "Skin B",
+    "tipo": "Premium",
+    "precio": 19.99,
+    "color": "Azul"
+  },
+  {
+    "id": 3,
+    "nombre": "Skin C",
+    "tipo": "Normal",
+    "precio": 8.99,
+    "color": "Verde"
+  },
+  {
+    "id": 4,
+    "nombre": "Skin D",
+    "tipo": "Especial",
+    "precio": 15.99,
+    "color": "Amarillo"
+  },
+  {
+    "id": 5,
+    "nombre": "Skin E",
+    "tipo": "Normal",
+    "precio": 7.99,
+    "color": "Naranja"
+  },
+  {
+    "id": 6,
+    "nombre": "Skin F",
+    "tipo": "Premium",
+    "precio": 21.99,
+    "color": "Violeta"
+  },
+  {
+    "id": 7,
+    "nombre": "Skin G",
+    "tipo": "Normal",
+    "precio": 9.99,
+    "color": "Blanco"
+  },
+  {
+    "id": 8,
+    "nombre": "Skin H",
+    "tipo": "Especial",
+    "precio": 17.99,
+    "color": "Negro"
+  },
+  {
+    "id": 9,
+    "nombre": "Skin I",
+    "tipo": "Normal",
+    "precio": 6.99,
+    "color": "Gris"
+  },
+  {
+    "id": 10,
+    "nombre": "Skin J",
+    "tipo": "Premium",
+    "precio": 24.99,
+    "color": "Rosado"
+  }
+]
